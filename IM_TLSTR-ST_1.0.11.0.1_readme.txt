@@ -1,0 +1,89 @@
+Customer
+========
+	TLSTR-ST
+
+Release Date
+============
+	05-May-2016
+
+
+Component
+=========
+	IM
+
+List of Changes
+===============
+	1) Following tickets are resolved.
+	bug_id 	short_desc 
+	CP-481  IM-EMAIL attachment support
+	
+	
+References
+==========
+	IM_TLSTR-ST_1.0.11.0.1.zip from  IM Trunk.
+
+Configuration Specs
+===================
+	N/A
+
+List of Deliverables
+====================
+	1) IM_TLSTR-ST_1.0.11.0.1.zip
+	2) Installment_Document.docx
+
+Affected components/entities
+============================
+	N/A
+
+Obsoletes
+=========
+
+Pre-requisites
+==============
+	User must have administrator rights
+	keep the backup of all xxxx.ini files from config folder. 
+
+Co-requisites
+=============
+	
+
+	
+Caveats
+=======
+	N/A
+
+Known issues or Limitations
+===========================
+	Limitation: The Server where IMS is running and the mail server from we read mails should be on the same time zones. If not the Readmail component Latency should be adjusted accordingly. 
+
+	
+Abbreviations (if any)
+======================
+	
+	N/A - Not Applicable
+	JDK - Java Development Kit
+	JRE - Java Runtime Environment
+
+Backup Process
+==============
+	
+
+Back out Process
+================
+	
+	
+Pre-Install Checks
+==================
+	N/A
+
+Installation Procedure
+======================
+	Please follow IM_Installation_Document.docx 's IM Application Pre-Installation 	Check
+
+Migration
+=========
+	N/A
+
+Post-Install Checks
+===================
+	Please follow IM_Installation_Document.docx's IM Application Post-Installation 	Checks
