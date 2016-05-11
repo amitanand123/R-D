@@ -7,10 +7,6 @@ Release Date
 	05-May-2017
 
 
-Component
-=========
-	IM
-
 List of Changes
 ===============
 	1) Following tickets are resolved.
