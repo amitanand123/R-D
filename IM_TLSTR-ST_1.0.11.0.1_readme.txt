@@ -1,6 +1,6 @@
 Customer
 ========
-	TLSTR-ST
+	TLSTR-ST-ph1
 
 Release Date
 ============
