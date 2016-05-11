@@ -1,15 +1,11 @@
 Customer
 ========
-	TLSTR-ST-ph1
+	TLSTR-ST-ph1_branch
 
 Release Date
 ============
-	05-May-2016
+	05-May-2017
 
-
-Component
-=========
-	IM
 
 List of Changes
 ===============
